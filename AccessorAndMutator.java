@@ -37,7 +37,7 @@ class Student
 	}
 }
 
-class Test
+class AccessorAndMutator
 {
 	public static void main(String[] args)
 	{
