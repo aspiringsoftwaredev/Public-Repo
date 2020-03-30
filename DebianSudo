@@ -1,0 +1,7 @@
+su -
+adduser [nama user kamu]
+usermod -aG sudo [nama user kamu]
+su - [nama user kamu]
+sudo whoami
+
+# JADI DEH
